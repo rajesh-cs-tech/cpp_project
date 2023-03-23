@@ -1,4 +1,3 @@
-
 #include "math_lib/Calc.hpp"
 
 #include <iostream>
